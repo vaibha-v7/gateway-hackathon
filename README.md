@@ -68,8 +68,7 @@ VITE_API_URL=http://localhost:5000
 Create a `.env` file inside `backend/` with the required values for your services, for example:
 
 ```env
-MONGO_DB_URI=your_mongodb_connection_string
-GEMINI_API_KEY=your_gemini_api_key
+MISTRAL_API_KEY=your_gemini_api_key
 ```
 
 ## Running the app
